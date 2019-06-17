@@ -1,0 +1,11 @@
+C:\Users\expp\Desktop\NaEmoZadachata\bin\Debug\NaEmoZadachata.exe.config
+C:\Users\expp\Desktop\NaEmoZadachata\bin\Debug\NaEmoZadachata.exe
+C:\Users\expp\Desktop\NaEmoZadachata\bin\Debug\NaEmoZadachata.pdb
+C:\Users\expp\Desktop\NaEmoZadachata\bin\Debug\NaEmoZadachata.xml
+C:\Users\expp\Desktop\NaEmoZadachata\obj\Debug\NaEmoZadachata.vbprojResolveAssemblyReference.cache
+C:\Users\expp\Desktop\NaEmoZadachata\obj\Debug\NaEmoZadachata.Form1.resources
+C:\Users\expp\Desktop\NaEmoZadachata\obj\Debug\NaEmoZadachata.Resources.resources
+C:\Users\expp\Desktop\NaEmoZadachata\obj\Debug\NaEmoZadachata.vbproj.GenerateResource.Cache
+C:\Users\expp\Desktop\NaEmoZadachata\obj\Debug\NaEmoZadachata.exe
+C:\Users\expp\Desktop\NaEmoZadachata\obj\Debug\NaEmoZadachata.xml
+C:\Users\expp\Desktop\NaEmoZadachata\obj\Debug\NaEmoZadachata.pdb
