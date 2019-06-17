@@ -123,7 +123,7 @@ Partial Class Form1
         Me.results_scorese_lstBox.FormattingEnabled = True
         Me.results_scorese_lstBox.Location = New System.Drawing.Point(371, 25)
         Me.results_scorese_lstBox.Name = "results_scorese_lstBox"
-        Me.results_scorese_lstBox.Size = New System.Drawing.Size(188, 225)
+        Me.results_scorese_lstBox.Size = New System.Drawing.Size(55, 225)
         Me.results_scorese_lstBox.TabIndex = 9
         '
         'Form1
